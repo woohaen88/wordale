@@ -19,6 +19,8 @@ main {
   width: 4rem;
   height: 4rem;
   border: 3px solid lightgray;
+  font-size: xx-large;
+  font-weight: 700;
 }
 
 .time {
